@@ -2,5 +2,9 @@
   {
     "name": "Drinking",
     "data": "/Name=Drinking\n/Theme=#42069A\nGive 1/bias=1.2\nGive 2/bias=0.5\nTake 1\nTake 2/bias=0.5\nSkal (Everybody drinks)/bias=2/Color=#ec00ff\nTake 1 & Spin Again\nMale Avatars Drink\nFemale Avatars Drink\nNon-Humans Drink\nVery Poor Performance Drinks\nDrink for 5 seconds/bias=0.25\nTable drinks for 5 seconds/bias=0.1\nPick a mate\nMake somebody finish their drink/bias=0.25\nWater Shot/bias=0.5"
+  },
+  {
+    "name": "Party Games (cooL)",
+    "data": "/Name=Party Games (cooL)\n/Theme=#9a9898\nTruth/bias=5/Color=#3b82f6\nDare/Color=#ff5353\nSkip/bias=0.5/Color=#6366f1\nChallenge/bias=1.5/Color=#71ff4d"
   }
 ]
