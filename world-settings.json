@@ -1,9 +1,35 @@
 {
-  "settings": {
-    "test": true
-  },
+  "groups": [
+    {
+      "id": "1bf36433-647f-45a6-8162-ce5cd2447a5a",
+      "name": "General",
+      "variables": [
+        {
+          "id": "0154220d-c6d0-4f47-8c85-06824dbeba64",
+          "key": "test",
+          "value": true
+        },
+        {
+          "id": "3f331470-f6d6-46b7-b495-9120ed425345",
+          "key": "te",
+          "value": "weeewe"
+        }
+      ]
+    },
+    {
+      "id": "0fd26856-cdb2-44a5-bf3f-e6d18487d780",
+      "name": "Group 2",
+      "variables": [
+        {
+          "id": "3b339535-7104-4738-9e1e-1aa7cb7cd372",
+          "key": "tete",
+          "value": "teteet"
+        }
+      ]
+    }
+  ],
   "metadata": {
-    "generated_at": "2026-01-29T18:31:47.177Z",
+    "generated_at": "2026-01-29T19:51:43.854Z",
     "app_version": "0.1.0"
   }
 }
