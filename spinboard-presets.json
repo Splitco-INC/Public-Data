@@ -1,10 +1,10 @@
 [
   {
-    "name": "Example Board 1",
-    "data": "/Name=Example Board 1\n/Theme=#3b82f6\nTruth/Color=#3b82f6\nDare/Color=#8b5cf6\nSkip/bias=0.5/Color=#6366f1\nChallenge/bias=1.5/Color=#a855f7"
+    "name": "Boardo 2o (Also remove or reuse)",
+    "data": "/Name=Boardo 2o (Also remove or reuse)\n/Theme=#ff3333\nCool thing!!!!/bias=1.1/Color=#3b82f6\nYipee/Color=#8b5cf6\nBird/bias=0.5/Color=#6366f1\nChallenge/bias=1.5/Color=#a855f7"
   },
   {
-    "name": "Example Board 2",
-    "data": "/Name=Example Board 2\n/Theme=#3b82f6\nTruth/bias=2.1/Color=#3b82f6\nDare/bias=3.1/Color=#8b5cf6\nSkip/Color=#6366f1\nChallenge/bias=1.5/Color=#a855f7"
+    "name": "Test Board 1 [Delete or reuse]",
+    "data": "/Name=Test Board 1 [Delete or reuse]\n/Theme=#ff33d7\nTruth/bias=4.5/Color=#3b82f6\nDare/bias=3.1/Color=#8b5cf6\nSkip/Color=#6366f1\nChallenge/bias=1.5/Color=#a855f7"
   }
 ]
