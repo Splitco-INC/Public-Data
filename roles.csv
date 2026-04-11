@@ -1,3 +1,4 @@
-Name,Club Admin,Staff
-Pesky12,TRUE,TRUE
-Splitco,TRUE,TRUE
+Name,Club Admin,Host,Staff
+pesky12,TRUE,FALSE,TRUE
+Splitco,TRUE,FALSE,TRUE
+NotTex,FALSE,TRUE,TRUE
