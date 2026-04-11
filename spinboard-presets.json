@@ -10,5 +10,9 @@
   {
     "name": "Bird Board",
     "data": "/Name=Bird Board\n/Theme=#ff33c1\nBird/bias=5/Color=#3e5ef4\nDrink 20/bias=0.3/Color=#ff4dd2"
+  },
+  {
+    "name": "Drink Drink Drink",
+    "data": "/Name=Drink Drink Drink\n/Theme=#3b82f6\nWater shot/bias=0.1/Color=#8b5cf6\nPick some one to take a shot/bias=0.6/Color=#3b82f6\nBuddy shot/bias=0.6/Color=#6366f1\nSkál (every one drinks)/bias=0.6/Color=#a855f7\nPick a mate/bias=0.1\nWaterfall (10 seconds)/bias=0.1\nTwo for you"
   }
 ]
