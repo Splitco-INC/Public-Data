@@ -6,5 +6,9 @@
   {
     "name": "Drink Drink Drink",
     "data": "/Name=Drink Drink Drink\n/Theme=#3b82f6\nWater shot/bias=0.1/Color=#8b5cf6\nPick some one to take a shot/bias=0.6/Color=#3b82f6\nBuddy shot/bias=0.6/Color=#6366f1\nSkál (every one drinks)/bias=0.6/Color=#a855f7\nPick a mate/bias=0.1\nWaterfall (10 seconds)/bias=0.1\nTwo for you"
+  },
+  {
+    "name": "Funny Games",
+    "data": "/Name=Funny Games\n/Theme=#3b82f6\nSkal/bias=0.3/Color=#3b82f6\nDrink for every light on your avi/bias=0.3/Color=#8b5cf6\nTell a dad joke, if nobody laughs drink/bias=0.5/Color=#6366f1\nDrink one/bias=1.5/Color=#a855f7\nHow many times you drank water, drink shots/bias=0.9\nTruth or dare\nFurry avis drink\nHuman avis drink\nDrinking rule, one turn\nRhyme time"
   }
 ]
