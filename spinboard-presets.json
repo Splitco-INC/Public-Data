@@ -1,14 +1,10 @@
 [
   {
-    "name": "Bird Board",
-    "data": "/Name=Bird Board\n/Theme=#ff33c1\nBird/bias=5/Color=#3e5ef4\nDrink 20/bias=0.5/Color=#ff4dd2"
-  },
-  {
     "name": "Drink Drink Drink",
-    "data": "/Name=Drink Drink Drink\n/Theme=#3b82f6\nWater shot/bias=0.1/Color=#8b5cf6\nPick some one to take a shot/bias=0.6/Color=#3b82f6\nBuddy shot/bias=0.6/Color=#6366f1\nSkál (every one drinks)/bias=0.6/Color=#a855f7\nPick a mate/bias=0.1\nWaterfall (10 seconds)/bias=0.1\nTwo for you"
+    "data": "/Name=Drink Drink Drink\n/Theme=#3b82f6\nPick some one to take a shot/bias=0.5/Color=#3b82f6\nBuddy shot/bias=0.5/Color=#6366f1\nSkál (every one drinks)/bias=0.5/Color=#a855f7\nPick a mate/bias=0.1\nTwo for you/bias=0.5\nDrink and spin again/bias=0.2\nWater shot/bias=0.1/Color=#8b5cf6\nSolo waterfall (5 seconds)/bias=0.2\nWaterfall (10 sec)/bias=0.1"
   },
   {
-    "name": "Funny Games",
-    "data": "/Name=Funny Games\n/Theme=#3b82f6\nSkal/bias=0.3/Color=#3b82f6\nDrink for every light on your avi/bias=0.3/Color=#8b5cf6\nTell a dad joke, if nobody laughs drink/bias=0.5/Color=#6366f1\nDrink one/bias=1.5/Color=#a855f7\nHow many times you drank water, drink shots/bias=0.9\nTruth or dare\nFurry avis drink\nHuman avis drink\nDrinking rule, one turn\nRhyme time/bias=0.8"
+    "name": "Mass Drinking",
+    "data": "/Name=Mass Drinking\n/Theme=#3b82f6\nFurries drink/bias=0.8/Color=#3b82f6\nE-boys drink/bias=0.8/Color=#8b5cf6\nE-girls drink /bias=0.8/Color=#6366f1\nRobots/Cyber drink/bias=0.8/Color=#a855f7\nSkál (every one drinks)\nLeague players take 5/bias=0.6\nOver 2m avi's drink\nUnder 1.2m avi's drink/bias=0.8\nMonsters/Cryptids drink/bias=0.8\nClub staff drinks/bias=0.8\nBuddy shot\nDrink and spin again"
   }
 ]
