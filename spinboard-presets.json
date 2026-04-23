@@ -1,10 +1,10 @@
 [
   {
-    "name": "Drink Drink Drink",
-    "data": "/Name=Drink Drink Drink\n/Theme=#3b82f6\nPick some one to take a shot/bias=0.5/Color=#3b82f6\nBuddy shot/bias=0.5/Color=#6366f1\nSkál (every one drinks)/bias=0.5/Color=#a855f7\nPick a mate/bias=0.1\nTwo for you/bias=0.5\nDrink and spin again/bias=0.2\nWater shot/bias=0.1/Color=#8b5cf6\nSolo waterfall (5 seconds)/bias=0.2\nWaterfall (10 sec)/bias=0.1"
+    "name": "Mass Drinking",
+    "data": "/Name=Mass Drinking\n/Theme=#8b5cf6\nFurries drink/bias=0.8/Color=#8b5cf6\nE-boys drink/bias=0.8/Color=#8b5cf6\nE-girls drink /bias=0.8/Color=#8b5cf6\nRobots/Cyber drink/bias=0.8/Color=#8b5cf6\nSkál (every one drinks)/bias=0.8\nLeague players take 5/bias=0.6\nOver 2m avi's drink/bias=0.8\nUnder 1.2m avi's drink/bias=0.8\nMonsters/Cryptids drink/bias=0.8\nClub staff drinks/bias=0.8\nBuddy shot/bias=0.8\nDrink and spin again\nEveryone drinks water/bias=0.4"
   },
   {
-    "name": "Mass Drinking",
-    "data": "/Name=Mass Drinking\n/Theme=#3b82f6\nFurries drink/bias=0.8/Color=#3b82f6\nE-boys drink/bias=0.8/Color=#8b5cf6\nE-girls drink /bias=0.8/Color=#6366f1\nRobots/Cyber drink/bias=0.8/Color=#a855f7\nSkál (every one drinks)\nLeague players take 5/bias=0.6\nOver 2m avi's drink\nUnder 1.2m avi's drink/bias=0.8\nMonsters/Cryptids drink/bias=0.8\nClub staff drinks/bias=0.8\nBuddy shot\nDrink and spin again"
+    "name": "Drink Drink Drink",
+    "data": "/Name=Drink Drink Drink\n/Theme=#3b82f6\nSkál (every one drinks)/bias=0.4\nPick some one to take a shot/bias=0.4\nBuddy shot/bias=0.4\nPick a mate/bias=0.1\nTwo for you/bias=0.4\nDrink and spin again/bias=0.2\nWater shot/bias=0.1\nSolo waterfall (5 seconds)/bias=0.2\nWaterfall (10 sec)/bias=0.1"
   }
 ]
