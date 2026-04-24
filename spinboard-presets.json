@@ -1,10 +1,34 @@
 [
   {
-    "name": "Mass Drinking",
-    "data": "/Name=Mass Drinking\n/Theme=#8b5cf6\nFurries drink/bias=0.8/Color=#8b5cf6\nE-boys drink/bias=0.8/Color=#8b5cf6\nE-girls drink /bias=0.8/Color=#8b5cf6\nRobots/Cyber drink/bias=0.8/Color=#8b5cf6\nSkál (every one drinks)/bias=0.8\nLeague players take 5/bias=0.6\nOver 2m avi's drink/bias=0.8\nUnder 1.2m avi's drink/bias=0.8\nMonsters/Cryptids drink/bias=0.8\nClub staff drinks/bias=0.8\nBuddy shot/bias=0.8\nDrink and spin again\nEveryone drinks water/bias=0.4"
+    "name": "Pre-Game",
+    "data": "/Name=Pre-Game\n/Theme=#3b82f6\nDrink two/bias=0.5\nBuddy shots\nYou drink\nSkál (every one drinks)\nDrink water spin again/bias=0.5\nDrink and spin again/bias=0.5\nGive a drink"
   },
   {
     "name": "Drink Drink Drink",
-    "data": "/Name=Drink Drink Drink\n/Theme=#3b82f6\nSkál (every one drinks)/bias=0.4\nPick some one to take a shot/bias=0.4\nBuddy shot/bias=0.4\nPick a mate/bias=0.1\nTwo for you/bias=0.4\nDrink and spin again/bias=0.2\nWater shot/bias=0.1\nSolo waterfall (5 seconds)/bias=0.2\nWaterfall (10 sec)/bias=0.1"
+    "data": "/Name=Drink Drink Drink\n/Theme=#3b82f6\nSkál (every one drinks)/bias=0.4\nPick someone to take a shot/bias=0.4\nBuddy shot/bias=0.4\nPick a mate/bias=0.1\nTwo for you/bias=0.4\nDrink and spin again/bias=0.2\nWater shot/bias=0.1\nSolo waterfall (5 seconds)/bias=0.2\nWaterfall (10 sec)/bias=0.1"
+  },
+  {
+    "name": "Mass Drinking",
+    "data": "/Name=Mass Drinking\n/Theme=#8b5cf6\nFurries drink/bias=0.8\nE-boys drink/bias=0.8\nE-girls drink /bias=0.8\nRobots/Cyber drink/bias=0.8\nSkál (every one drinks)/bias=0.8\nLeague players take 5/bias=0.6\nOver 2m avi's drink/bias=0.8\nUnder 1.2m avi's drink/bias=0.8\nMonsters/Cryptids drink/bias=0.8\nClub staff drinks/bias=0.8\nBuddy shot/bias=0.8\nDrink and spin again\nEveryone drinks water/bias=0.4"
+  },
+  {
+    "name": "Debauchery",
+    "data": "/Name=Debauchery\n/Theme=#3b82f6\nTake one/bias=2/Color=#000000\nTake two/bias=1.5\nBuddy shots/bias=2/Color=#000000\nSkál (everyone drinks)/bias=2\nWaterfall (5 seconds)/bias=0.6/Color=#000000\nGive one/bias=2\nGive two/bias=1.5/Color=#000000\nPick a mate/bias=0.5\nWaterfall (10 seconds)/bias=0.4/Color=#000000\nGive 5 drinks/bias=0.8\nTake 5 drinks/bias=0.8/Color=#000000\nWaterfall (up to spinner)/bias=0.4"
+  },
+  {
+    "name": "Let's Go Gambling",
+    "data": "/Name=Let's Go Gambling\n/Theme=#000000\nTake one/bias=5/Color=#420690\nTake two/bias=4\nTake three/bias=3/Color=#420690\nTake four/bias=2\nTake five/Color=#420690\nSkál (everyone drinks)/bias=0.5/Color=#420690\nJackpot (give ten and take 5 in taxes)/bias=0.5\nGive one/bias=5\nGive two/bias=4/Color=#420690\nGive three/bias=3\nGive four/bias=2/Color=#420690\nGive five"
+  },
+  {
+    "name": "Drinking Nights",
+    "data": "/Name=Drinking Nights\n/Theme=#3b82f6\nGive a drink\nTake a drink\nTake a drink spin again/bias=0.5\nTruth or shot/bias=0.5\nDare or shot/bias=0.5\nTwo for you\nWater shot\nMake a rule/bias=0.4\nFinish 25% of your drink\nBuddy shot\nEveryone but you drinks\nRhyme time/bias=0.4\nCategories/bias=0.4\nHands up\nYour friends drink/bias=0.4\nPlayer to your left drinks\nPlayer to your right drinks\nGive a drink spin again/bias=0.5\nBuddy murder (you and a friend finish your drinks)/bias=0.2"
+  },
+  {
+    "name": "Split's Special",
+    "data": "/Name=Split's Special\n/Theme=#3b82f6\nGive a drink\nTake a drink\nTake a drink spin again/bias=0.5\nTruth or shot/bias=0.5\nDare or shot/bias=0.5\nTwo for you\nWater shot\nMake a rule/bias=0.4\nFinish 25% of your drink\nBuddy shot\nEveryone but you drinks\nRhyme time/bias=0.4\nCategories/bias=0.4\nHands up\nYour friends drink/bias=0.4\nPlayer to your left drinks\nPlayer to your right drinks\nGive a drink spin again/bias=0.5\nBuddy murder (you and a friend finish your drinks)/bias=0.2"
+  },
+  {
+    "name": "Aviary Gambler",
+    "data": "/Name=Aviary Gambler\n/Theme=#eb43ef\nBird/bias=5/Color=#3b82f6\nDrink 30/bias=0.2/Color=#8b5cf6"
   }
 ]
