@@ -25,7 +25,7 @@
   },
   {
     "name": "Split's Special",
-    "data": "/Name=Split's Special\n/Theme=#3b82f6\nGive a drink\nTake a drink\nTake a drink spin again/bias=0.5\nTruth or shot/bias=0.5\nDare or shot/bias=0.5\nTwo for you\nWater shot\nMake a rule/bias=0.4\nFinish 25% of your drink\nBuddy shot\nEveryone but you drinks\nRhyme time/bias=0.4\nCategories/bias=0.4\nHands up\nYour friends drink/bias=0.4\nPlayer to your left drinks\nPlayer to your right drinks\nGive a drink spin again/bias=0.5\nBuddy murder (you and a friend finish your drinks)/bias=0.2"
+    "data": "/Name=Split's Special\n/Theme=#420690\nGuys Drink/bias=0.9/Color=#4685ca\nGirls Drink/bias=0.9/Color=#f983fc\nNon-Binarys Drink/bias=0.9/Color=#000000\nTake Two\nGive Two\nBuddy Shot/bias=1.2\nStaff Drinks\nDrink and Spin Again/bias=0.7\nWaterfall/bias=0.4\nEveryone But You Drinks\nWater shot/bias=0.1\nHands up\nPick a Mate/bias=0.1\nGive A Drink and Spin Again/bias=0.6\nBuddy murder (you and a friend finish your drinks)/bias=0.4\nJackpot (Give 10 and take 5 in taxes)/bias=0.2\nBorn in May Drinks/bias=0.7\nHospitality Workers Give Three/bias=0.7\nDrink 25% of Your Drink/bias=0.5\nAvatars Smaller Than You Drink/bias=0.7\nPeople Born Before 2000 Drink/bias=0.6\nWater shot/bias=0.1"
   },
   {
     "name": "Aviary Gambler",
