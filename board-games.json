@@ -2,7 +2,7 @@
   {
     "name": "Cool board",
     "description": "Bord",
-    "board_size": 30,
+    "board_size": 44,
     "theme_color": "#3b82f6",
     "bonus_color": "#a855f7",
     "spaces": [
@@ -12,27 +12,34 @@
       },
       {
         "index": 1,
-        "type": "normal"
+        "type": "normal",
+        "label": "sdads"
       },
       {
         "index": 2,
-        "type": "normal"
+        "type": "ladder",
+        "label": "Test",
+        "target": 24
       },
       {
         "index": 3,
-        "type": "normal"
+        "type": "normal",
+        "label": "Tset12"
       },
       {
         "index": 4,
-        "type": "normal"
+        "type": "normal",
+        "label": "dadaadsads"
       },
       {
         "index": 5,
-        "type": "normal"
+        "type": "normal",
+        "label": "daadsads"
       },
       {
         "index": 6,
-        "type": "normal"
+        "type": "normal",
+        "label": "dadasads"
       },
       {
         "index": 7,
@@ -52,7 +59,8 @@
       },
       {
         "index": 11,
-        "type": "normal"
+        "type": "normal",
+        "label": "adadsadsads"
       },
       {
         "index": 12,
@@ -84,35 +92,35 @@
       },
       {
         "index": 19,
-        "type": "normal"
+        "type": "finish"
       },
       {
         "index": 20,
-        "type": "normal"
+        "type": "finish"
       },
       {
         "index": 21,
-        "type": "normal"
+        "type": "finish"
       },
       {
         "index": 22,
-        "type": "normal"
+        "type": "finish"
       },
       {
         "index": 23,
-        "type": "normal"
+        "type": "finish"
       },
       {
         "index": 24,
-        "type": "normal"
+        "type": "finish"
       },
       {
         "index": 25,
-        "type": "normal"
+        "type": "finish"
       },
       {
         "index": 26,
-        "type": "normal"
+        "type": "finish"
       },
       {
         "index": 27,
@@ -124,6 +132,62 @@
       },
       {
         "index": 29,
+        "type": "finish"
+      },
+      {
+        "index": 30,
+        "type": "finish"
+      },
+      {
+        "index": 31,
+        "type": "normal"
+      },
+      {
+        "index": 32,
+        "type": "finish"
+      },
+      {
+        "index": 33,
+        "type": "finish"
+      },
+      {
+        "index": 34,
+        "type": "finish"
+      },
+      {
+        "index": 35,
+        "type": "finish"
+      },
+      {
+        "index": 36,
+        "type": "finish"
+      },
+      {
+        "index": 37,
+        "type": "finish"
+      },
+      {
+        "index": 38,
+        "type": "finish"
+      },
+      {
+        "index": 39,
+        "type": "finish"
+      },
+      {
+        "index": 40,
+        "type": "finish"
+      },
+      {
+        "index": 41,
+        "type": "finish"
+      },
+      {
+        "index": 42,
+        "type": "finish"
+      },
+      {
+        "index": 43,
         "type": "finish"
       }
     ]
