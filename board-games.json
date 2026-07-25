@@ -8,7 +8,8 @@
     "spaces": [
       {
         "index": 0,
-        "type": "start"
+        "type": "start",
+        "label": "Start"
       },
       {
         "index": 1,
@@ -24,7 +25,7 @@
       {
         "index": 3,
         "type": "normal",
-        "label": "Dice Duel. Roll a dice against some one else loser drinks 3"
+        "label": "Dice Duel. Roll a dice against some one loser drinks 3"
       },
       {
         "index": 4,
@@ -80,9 +81,9 @@
       },
       {
         "index": 14,
-        "type": "skip",
+        "type": "normal",
         "label": "White girl wasted (skip your next turn)",
-        "skipAmount": 1
+        "color": "#ff0000"
       },
       {
         "index": 15,
@@ -93,7 +94,7 @@
       {
         "index": 16,
         "type": "normal",
-        "label": "Roll the dice take that many"
+        "label": "Roll a d6 take that many"
       },
       {
         "index": 17,
@@ -124,7 +125,7 @@
       {
         "index": 22,
         "type": "normal",
-        "label": "Let's go gambling :Even give 2 :Odd take 2"
+        "label": "Let's go gambling roll a dice :Even give 2 :Odd take 2"
       },
       {
         "index": 23,
@@ -138,8 +139,9 @@
       },
       {
         "index": 25,
-        "type": "skip",
-        "label": "Brain rot skip your next turn and take a drink"
+        "type": "normal",
+        "label": "Brain rot skip your next turn and take a drink",
+        "color": "#ff0000"
       },
       {
         "index": 26,
