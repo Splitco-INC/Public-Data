@@ -5,9 +5,9 @@
       "slotNumber": 1,
       "fileName": "POSTERS_Poster_01.jpg",
       "imageUrl": "https://raw.githubusercontent.com/Splitco-INC/Public-Data/main/posters-cottage/POSTERS_Poster_01.jpg",
-      "isActive": false,
-      "title": "Empty Slot",
-      "lastModified": "1970-01-01T00:00:00.000Z",
+      "isActive": true,
+      "title": "Cool bird",
+      "lastModified": "2026-11-17T17:38:32.428Z",
       "isLandscape": false,
       "frameId": null,
       "tags": []
